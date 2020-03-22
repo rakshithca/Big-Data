@@ -1,1 +1,4 @@
-this is test1 to test staging in git
+this is test1 to test staging in git project 
+
+
+to check a diff, this file comes before the others.
